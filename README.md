@@ -3,6 +3,8 @@
   <a href="https://github.com/diassmith">
   
     
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=diassmith&hide=php&theme=react" />
+    
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=diassmith&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
     
 
