@@ -1,7 +1,6 @@
 ## Olá eu sou Guilherme Dias
 <div align="center">
   <a href="https://github.com/diassmith">
-  
     
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=diassmith&hide=php&theme=react" />
     
