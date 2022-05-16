@@ -8,6 +8,10 @@
     
 
   ![Snake animation](https://github.com/diassmith/diassmith/blob/output/github-contribution-grid-snake.svg)</a>
+  
+  <p align="justify">
+  <img align="bottom" src="https://github-readme-stats.vercel.app/api?username=diassmith&show_icons=true&count_private=true&theme=algolia" />       &nbsp;  <img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diassmith&layout=compact&theme=algolia" />
+</p>
     
     
 </div>
