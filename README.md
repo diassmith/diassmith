@@ -2,8 +2,8 @@
 <div align="center">
   <a href="https://github.com/diassmith">
    
-  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=diassmith&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diassmith&langs_count=10&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diassmith&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diassmith&langs_count=10&show_icons=true&theme=radical"/>
     
 
   ![Snake animation](https://github.com/diassmith/diassmith/blob/output/github-contribution-grid-snake.svg)</a>    
