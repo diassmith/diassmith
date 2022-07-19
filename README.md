@@ -1,6 +1,8 @@
-## Olá eu sou Guilherme Dias
-<div align="center">
-  <a href="https://github.com/diassmith">
+<div id="top"></div>
+<img src="https://github.com/dirceuresende/dirceuresende/raw/main/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode" />
+
+# 🤙🏾 Guilherme Dias 👊🏾
+> Data Engineer, Data Analyst and Data Architect
    
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diassmith&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diassmith&langs_count=8&show_icons=true&theme=aura"/>
@@ -44,7 +46,7 @@
   
   <img align="center" alt="Dias-AzureDevOps" height="30" width="40" src="https://github.com/benc-uk/icon-collection/blob/master/azure-icons/Azure-DevOps.svg">
   
-  <img align="center" alt="Dias-GCP" height="40" width="40" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg">
+  <!--<img align="center" alt="Dias-GCP" height="40" width="40" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg">-->
   
   <img align="center" alt="Dias-Azure" height="40" width="40" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg">
   
@@ -58,12 +60,26 @@
 
 
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on  
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
+
+## 😄 About me
+ I'm currently working as BI Analyst/Data Engineer at Bauducco.
+ I love travel, technology, investiments, basketball, Muay thai, games and beer and series 😁.
+ I usually spend my free time watching series, studenting investiments(stocks, crypto and reits), pratice Muay thai or just stay with my friends and of course, studying.
+
+* **Name**: Guilherme Dias
+* **Age**: 23
+* **Living in**: São Paulo, Brazil
+* **Stack**: Power BI, Azure Data Factory, Azure SQL Database, Azure Analysis Services, Azure Synapse, Azure Data Lake and Azure Databricks
+* **Certifications**: Microsoft certificates [(Check full list)](https://www.credly.com/users/dias-guilherme/badges)
+* **Titles**: Microsoft Certified Trainer
+<p align="right">(<a href="#top">back to top</a>)</p>
+<br/><br/>
