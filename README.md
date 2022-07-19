@@ -27,7 +27,10 @@
 * **Stack**: Power BI, Azure Data Factory, Azure SQL Database, Azure Analysis Services, Azure Synapse, Azure Data Lake and Azure Databricks
 * **Certifications**: </br>
  -Microsoft certificates [(Check full list)](https://www.credly.com/users/dias-guilherme/badges)
-* **Titles**: Microsoft Certified Trainer
+* **Titles**: Microsoft Certified Trainer</br>
+
+[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/guilhermediasdataanalyst/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/dias_smith/)
+
 <p align="center">(<a href="#top">back to top</a>)</p>
 <br/><br/>
 
