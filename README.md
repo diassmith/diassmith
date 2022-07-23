@@ -1,9 +1,11 @@
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=29CEF2&height=180&section=header&text=Guilherme Dias ✊🏾&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+</br>
+
 <div id="top"></div>
 <img src="https://github.com/diassmith/diassmith/blob/main/DarkAnalytics.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode" />
 
-
-
-# Guilherme Dias ✊🏾
+<!--# Guilherme Dias ✊🏾-->
 > Data Engineer, Data Analyst and Data Architect
 
 - 🔭 I’m currently working on improving Data Engineer skills   
@@ -28,13 +30,34 @@
 
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/guilhermediasdataanalyst/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/dias_smith/)
 
-<p align="center">(<a href="#top">back to top</a>)</p>
-<br/><br/>
+<br/>
 
-   
+   <!--
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diassmith&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diassmith&langs_count=8&show_icons=true&theme=aura"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diassmith&langs_count=8&show_icons=true&theme=aura"/> -->
     
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/diassmith">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diassmith&hide=java,html,tex&theme=react&langs_count=3" />
+</a>
+<a href="https://github.com/diassmith">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=diassmith&show_icons=true&line_height=27&count_private=true&theme=react" alt="Guilherme's GitHub Stats" />
+</a>
+
+<a href="https://github.com/diassmith/Olist-Project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=diassmith&repo=Olist-Project&theme=react" />
+</a>
+
+
+<a href="https://github.com/diassmith/formula1-project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=diassmith&repo=formula1-project&theme=react" />
+</a>    
+
+
+</br>
+
+![Contribution](https://activity-graph.herokuapp.com/graph?username=diassmith&theme=react-dark&hide_border=true&area=true)
 
   ![Snake animation](https://github.com/diassmith/diassmith/blob/output/github-contribution-grid-snake.svg)</a>    
     
@@ -80,6 +103,7 @@
   
   <img align="center" alt="Dias-AWS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
   
+  <p align="center">(<a href="#top">back to top</a>)</p>
   
   
 
