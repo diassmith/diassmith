@@ -3,17 +3,14 @@
 
 
 
-# 🤙🏾 Guilherme Dias 👊🏾
+# Guilherme Dias ✊🏾
 > Data Engineer, Data Analyst and Data Architect
 
-- 🔭 I’m currently working on  
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on improving Data Engineer skills   
+- 🌱 I’m currently learning Data Architecture, pySpark and seeking to improve knowledge on Azure Synapse and Databricks
+- 💬 Ask me about Power BI, Azure Data Factory, SQL, Integrations and Dataviz.
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+- ⚡ Curious fact: I had been living New Zealand in 2020.
 
 
 ## 😄 About me
