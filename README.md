@@ -3,7 +3,7 @@
 </br>
 
 <div id="top"></div>
-<img src="https://github.com/diassmith/diassmith/blob/main/DarkAnalytics.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode" />
+<img src="https://storyset.com/illustration/dark-analytics/bro/animate?share=47373" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode" />
 
 <!--# Guilherme Dias ✊🏾-->
 > Data Engineer, Data Analyst and Data Architect
