@@ -90,7 +90,7 @@
 
 <div style="display: inline_block"><br>
   
-  <!--<img align="center" alt="Dias-PowerBI" height="30" width="25" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/PowerBI.png">-->
+  <!--<img align="center" alt="Dias-PowerBI" height="30" width="25" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/PowerBI.png">
   
   <img align="center" alt="Dias-Synapse" height="30" width="35" src="https://github.com/benc-uk/icon-collection/blob/master/azure-icons/Azure-Synapse-Analytics.svg">
   
@@ -98,7 +98,7 @@
   
   <img align="center" alt="Dias-ADF" height="30" width="35" src="https://github.com/benc-uk/icon-collection/blob/master/azure-icons/Data-Factory.svg">
   
-  <!--<img align="center" alt="Dias-PowerAutomate" height="30" width="35" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/PowerAutomate-Colored.png">-->
+  <img align="center" alt="Dias-PowerAutomate" height="30" width="35" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/PowerAutomate-Colored.png">
   
   <img align="center" alt="Dias-Js" height="35" width="40" src="https://github.com/benc-uk/icon-collection/blob/master/azure-icons/SQL-Database.svg">
   
@@ -122,11 +122,11 @@
   
   <img align="center" alt="Dias-AzureDevOps" height="30" width="40" src="https://github.com/benc-uk/icon-collection/blob/master/azure-icons/Azure-DevOps.svg">
   
-  <!--<img align="center" alt="Dias-GCP" height="40" width="40" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg">-->
+  <img align="center" alt="Dias-GCP" height="40" width="40" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg">
   
   <img align="center" alt="Dias-Azure" height="40" width="40" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg">
   
-  <img align="center" alt="Dias-AWS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+  <img align="center" alt="Dias-AWS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">-->
   
   <p align="center">(<a href="#top">back to top</a>)</p>
   
