@@ -28,7 +28,19 @@
  -Microsoft certificates [(Check full list)](https://www.credly.com/users/dias-guilherme/badges)
 * **Titles**: Microsoft Certified Trainer</br>
 
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/guilhermediasdataanalyst/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/dias_smith/)
+<div align="center">
+ <!--<p align="center"><br/>How to reach me:</p><a target='_blank' href="#" alt="Email"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white" /></a>
+    <a target='_blank' href="#" alt="WhatsApp"><img src="https://img.shields.io/badge/WhatsApp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+    <a target='_blank' href="#" alt="Telegram"><img src="https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+    <a target='_blank' href="#" alt="Website"><img src="https://img.shields.io/badge/WordPress-0A0A0A?style=for-the-badge&logo=wordpress&logoColor=white" /></a>-->
+
+<p align="center"><br/>Follow me on social media:</p>
+    <a target='_blank' href="https://twitter.com/dirceuresende" alt="Medium"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+    <a target='_blank' href="https://www.instagram.com/dias_smith/" alt="Instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+    <a target='_blank' href="https://www.linkedin.com/in/guilhermediasdataanalyst/" alt="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <!--<a target='_blank' href="#" alt="YouTube"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>-->
+</div>
+<br/>
 
 <br/>
 
@@ -38,7 +50,7 @@
     
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/diassmith">
+<p align="center"><a href="https://github.com/diassmith">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diassmith&theme=react&langs_count=3" />
 </a>
 <a href="https://github.com/diassmith">
