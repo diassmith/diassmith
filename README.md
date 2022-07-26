@@ -57,14 +57,16 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=diassmith&show_icons=true&line_height=27&count_private=true&theme=react" alt="Guilherme's GitHub Stats" />
 </a>
 
+<a href="https://github.com/diassmith/formula1-project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=diassmith&repo=formula1-project&theme=react" />
+</a>    
+
 <a href="https://github.com/diassmith/Olist-Project">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=diassmith&repo=Olist-Project&theme=react" />
 </a>
 
 
-<a href="https://github.com/diassmith/formula1-project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=diassmith&repo=formula1-project&theme=react" />
-</a>    
+
 
 
 </br>
