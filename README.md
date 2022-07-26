@@ -71,7 +71,7 @@
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=diassmith&theme=react-dark&hide_border=true&area=true)
 
-  ![Snake animation](https://github.com/diassmith/diassmith/blob/output/github-contribution-grid-snake.svg)</a>    
+![Snake animation](https://github.com/diassmith/diassmith/blob/output/github-contribution-grid-snake.svg)    
     
 <!--
 ### Main skills:
