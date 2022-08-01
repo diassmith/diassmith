@@ -35,7 +35,7 @@
     <a target='_blank' href="#" alt="Website"><img src="https://img.shields.io/badge/WordPress-0A0A0A?style=for-the-badge&logo=wordpress&logoColor=white" /></a>-->
 
 <p align="center"><br/>Follow me on social media:</p>
-    <a target='_blank' href="https://twitter.com/dirceuresende" alt="Medium"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+    <a target='_blank' href="#" alt="Medium"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
     <a target='_blank' href="https://www.instagram.com/dias_smith/" alt="Instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
     <a target='_blank' href="https://www.linkedin.com/in/guilhermediasdataanalyst/" alt="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <!--<a target='_blank' href="#" alt="YouTube"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>-->
