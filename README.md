@@ -1,6 +1,6 @@
 
-<!--<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=29CEF2&height=180&section=header&text=Guilherme Dias ✊🏾&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
-</br>-->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=29CEF2&height=180&section=header&text=Guilherme Dias ✊🏾&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+</br>
 Guilherme Dias ✊🏾
 <div id="top"></div>
 <img src="https://github.com/diassmith/diassmith/blob/main/Dark%20analytics.png" min-width="550px" max-width="550px" width="400px" align="right" alt="Computador iuriCode" />
