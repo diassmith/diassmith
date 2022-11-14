@@ -17,7 +17,7 @@ Guilherme Dias ✊🏾
 
 
 ## 😄 About me
- I'm currently working as BI Analyst/Data Engineer at [Bauducco](https://www.bauducco.com.br/).</br>
+ I'm currently working as BI Analyst/Data Engineer at [Recovery](https://www.gruporecovery.com/quem-somos/).</br>
  I love travel, technology, investiments, basketball, Muay thai, games and beer and series 😁.</br>
  I usually spend my free time watching series, studenting investiments(stocks, crypto and reits), pratice Muay thai or just stay with my friends and of course, studying.
 
