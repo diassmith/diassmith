@@ -17,12 +17,12 @@ Guilherme Dias ✊🏾
 
 
 ## 😄 About me
- I'm currently working as BI Analyst/Data Engineer at [Recovery](https://www.gruporecovery.com/quem-somos/).</br>
+ I'm currently working as Data Engineer at [Recovery](https://www.gruporecovery.com/quem-somos/).</br>
  I love travel, technology, investiments, basketball, Muay thai, games and beer and series 😁.</br>
  I usually spend my free time watching series, studenting investiments(stocks, crypto and reits), pratice Muay thai or just stay with my friends and of course, studying.
 
 * **Name**: Guilherme Dias
-* **Age**: 23
+* **Age**: 24
 * **Living in**: São Paulo, Brazil
 * **Stack**: Power BI, Azure Data Factory, Azure SQL Database, Azure Analysis Services, Azure Synapse, Azure Data Lake and Azure Databricks
 * **Certifications**: </br>
