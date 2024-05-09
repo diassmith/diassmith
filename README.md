@@ -27,7 +27,7 @@ Guilherme Dias ✊🏾
 * **Living in**: São Paulo, Brazil
 * **Stack**: Databricks, Azure Data Factory, Azure SQL Database, Azure Analysis Services, Azure Synapse, Azure Data Lake and Power BI
 * **Certifications**: </br>
- -Microsoft certificates [(Check full list)](https://www.credly.com/users/dias-guilherme/badges)
+ -Microsoft certificates [(Check full list)](https://www.credly.com/users/dias-guilherme/badges)</br>
  -Databricks Certifications
 * **Titles**: Microsoft Certified Trainer</br>
 
