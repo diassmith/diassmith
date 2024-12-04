@@ -7,7 +7,7 @@ Guilherme Dias ✊🏾
 
 
 <!--# Guilherme Dias ✊🏾-->
-> Data Engineer | Data Analyst | Data Architect
+> Data Engineer | Data Architect | Data Analyst
 
   
 - 🔭 I'm Data Enginner recognized by Microsoft and Databricks but I'm always looking for improving my skills.
@@ -23,7 +23,7 @@ Guilherme Dias ✊🏾
  I usually spend my free time watching series, studenting investiments(stocks, crypto and reits), pratice Muay thai or just join with my friends.
 
 * **Name**: Guilherme Dias
-* **Age**: 25
+* **Age**: 26
 * **Living in**: São Paulo, Brazil
 * **Stack**: Databricks, Azure Data Factory, Azure SQL Database, Azure Analysis Services, Azure Synapse, Azure Data Lake and Power BI
 * **Certifications**: </br>
