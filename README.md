@@ -7,7 +7,7 @@ Guilherme Dias ✊🏾
 
 
 <!--# Guilherme Dias ✊🏾-->
-> Data Engineer , Data Analyst and Data Architect
+> Data Engineer | Data Analyst | Data Architect
 
   
 - 🔭 I'm Data Enginner recognized by Microsoft and Databricks but I'm always looking for improving my skills.
@@ -18,7 +18,7 @@ Guilherme Dias ✊🏾
 
 
 ## 😄 About me
- I'm currently working as Data Engineer <!--at [Ambev](https://www.ambevtech.com.br/). --></br> 
+ I'm currently working as Data Engineer </br> 
  I love travel, technology, investiments, basketball, Muay thai, games, beer and series 😁.</br>
  I usually spend my free time watching series, studenting investiments(stocks, crypto and reits), pratice Muay thai or just join with my friends.
 
