@@ -12,7 +12,7 @@ Guilherme Dias ✊🏾
   
 - 🔭 I'm Data Enginner recognized by Microsoft and Databricks but I'm always looking for improving my skills.
 - 🌱 I’m currently learning Data Architecture, pySpark and seeking to improve knowledge on Azure Databricks and Synapse
-- 💬 Ask me about Databricks, Azure Data Factory, SQL, Integrations, Power BI and Dataviz.
+- 💬 Ask me about Databricks, Microsoft Fabric, Azure Synapse and Azure Data Factory, SQL, Integrations, Power BI and Dataviz.
 - 😄 Pronouns: he/him
 - ⚡ Curious fact: I had been living New Zealand in 2020.
 
@@ -23,9 +23,9 @@ Guilherme Dias ✊🏾
  I usually spend my free time watching series, studenting investiments(stocks, crypto and reits), pratice Muay thai or just join with my friends.
 
 * **Name**: Guilherme Dias
-* **Age**: 26
+* **Age**: 27
 * **Living in**: São Paulo, Brazil
-* **Stack**: Databricks, Azure Data Factory, Azure SQL Database, Azure Analysis Services, Azure Synapse, Azure Data Lake and Power BI
+* **Stack**: Databricks, Microsoft Fabric, Azure Data Factory, Azure SQL Database, Azure Analysis Services, Azure Synapse, Azure Data Lake and Power BI
 * **Certifications**: </br>
  -Microsoft certificates [(Check full list)](https://www.credly.com/users/dias-guilherme/badges)</br>
  -Databricks Certifications
